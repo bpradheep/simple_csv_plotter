@@ -72,9 +72,11 @@ To use these samples:
 2. Upload it to the application using the file input
 3. Experiment with different chart types and settings
 
+See our [Visualization Guide](sample_data/visualization_guide.md) for detailed examples.
+
 ## Visualization Guide
 
-For detailed step-by-step examples with screenshots, please check out the comprehensive `visualization_guide.md` in the `sample_data` folder. This guide includes:
+For detailed step-by-step examples with screenshots, please check out the comprehensive [Visualization Guide](sample_data/visualization_guide.md) in the `sample_data` folder. This guide includes:
 
 - Line charts with time series data
 - Bar charts for comparison
