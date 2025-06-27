@@ -72,7 +72,19 @@ To use these samples:
 2. Upload it to the application using the file input
 3. Experiment with different chart types and settings
 
-For detailed step-by-step examples, check out the `visualization_guide.md` in the `sample_data` folder.
+## Visualization Guide
+
+For detailed step-by-step examples with screenshots, please check out the comprehensive `visualization_guide.md` in the `sample_data` folder. This guide includes:
+
+- Line charts with time series data
+- Bar charts for comparison
+- Pie and doughnut charts for distributions
+- Scatter plots for correlation analysis
+- Bubble charts for multi-dimensional analysis
+- Radar charts for multi-variable comparison
+- Application filtering examples
+
+The guide provides specific instructions for each chart type, along with sample images of the expected output.
 
 ## Getting Started
 
