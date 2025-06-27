@@ -1,0 +1,11 @@
+expense_category,amount,percentage,transaction_count
+Housing,1850,35.2,12
+Food,950,18.1,45
+Transportation,650,12.4,28
+Utilities,420,8.0,8
+Entertainment,380,7.2,22
+Healthcare,310,5.9,6
+Clothing,280,5.3,15
+Education,240,4.6,4
+Savings,175,3.3,1
+Miscellaneous,160,3.0,18
